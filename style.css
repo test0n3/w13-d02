@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-family: sans-serif;
+}
+
+div {
+  width: 50%;
+  height: 100vh;
+  padding: 20px;
+  color: #fff;
+}
+
+.left {
+  background-color: orange;
+}
+
+.right {
+  background-color: cornflowerblue;
+}

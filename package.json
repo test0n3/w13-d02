@@ -1,0 +1,16 @@
+{
+  "name": "w13-d02",
+  "version": "0.1.0",
+  "description": "Mini-assignment Week 13 Day 02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "html5",
+    "css3"
+  ],
+  "author": "carlosA",
+  "license": "ISC"
+}
