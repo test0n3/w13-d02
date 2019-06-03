@@ -12,5 +12,8 @@
     "css3"
   ],
   "author": "carlosA",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
 }

@@ -10,8 +10,11 @@ body {
 div {
   width: 50%;
   height: 100vh;
-  padding: 20px;
   color: #fff;
+}
+
+div h2 {
+  margin: 20px;
 }
 
 .left {
